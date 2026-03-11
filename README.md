@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero-floral.png" width="100%" alt="" />
+<img src="assets/bottom-desk-lavender.webp" width="100%" alt="" />
 
 <br/>
 
@@ -71,7 +71,7 @@ languages      Python, Shell, YAML (the holy trinity)
 
 <div align="center">
 
-<img src="assets/bottom-desk-lavender.webp" width="700" alt="" />
+<img src="assets/hero-floral.png" width="500" alt="" />
 
 <sub>all illustrations are AI-generated using models I help train</sub>
 
