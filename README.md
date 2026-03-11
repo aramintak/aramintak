@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="assets/bottom-desk-lavender.webp" width="100%" alt="" />
+<img src="assets/hero-floral.png" width="500" alt="" />
 
 <br/>
-
-<img src="assets/profile-pic-400.png" width="130" alt="araminta k" />
 
 ### Araminta K
 
@@ -71,7 +69,7 @@ languages      Python, Shell, YAML (the holy trinity)
 
 <div align="center">
 
-<img src="assets/hero-floral.png" width="500" alt="" />
+<img src="assets/bottom-desk-lavender.webp" width="100%" alt="" />
 
 <sub>all illustrations are AI-generated using models I help train</sub>
 
